@@ -1,0 +1,8 @@
+type,id,make,model,rate,spec,is_rented,rented_by
+Car,CR-2374,Maruti,Grand Vitara,6000,4,FALSE,
+Car,CR-2734,Toyota,Innova,10000,7,FALSE,
+Car,CR-3834,Toyota,Camry,7000,4,FALSE,
+Car,CR-2477,Volkswagen,Virtus,6000,4,FALSE,
+Car,CR-3846,Ford,Eco Sport,4000,4,TRUE,Arnav
+Van,VN-23824,Toyota,Vellfire,15000,2.07,FALSE,
+Van,VN-28364,Mercedes-Benz,V-Class,18000,5,TRUE,Mangal
